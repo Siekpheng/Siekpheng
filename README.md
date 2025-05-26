@@ -1,6 +1,6 @@
 
 # 💫 Hello world! I'm Siekpheng, an average coder who likes video games:
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%"/>
+<img src="banner_github1.jpg" alt="GitHub Banner" width="100%"/>
 
 🔭 I’m currently looking for an internship opportunity relating to robotics and automation to further develop my skills and gain hands-on industry experience.
 
