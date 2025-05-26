@@ -1,11 +1,12 @@
 
 # 💫 Hello world! I'm Siekpheng, an average coder who likes video games:
-<img src="banner_github1.jpg" alt="GitHub Banner" width="100%"/>
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%"/>
 
 🔭 I’m currently looking for an internship opportunity relating to robotics and automation to further develop my skills and gain hands-on industry experience.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%234C69C7.svg?logo=facebook&logoColor=white)](https://www.facebook.com/Siekpheng)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Forsaken310803/) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
