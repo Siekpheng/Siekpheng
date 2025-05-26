@@ -5,8 +5,8 @@
 🔭 I’m currently looking for an internship opportunity relating to robotics and automation to further develop my skills and gain hands-on industry experience.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%234C69C7.svg?logo=facebook&logoColor=white)](https://www.facebook.com/Siekpheng)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Forsaken310803/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%234C69C7.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Siekpheng)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Forsaken310803/)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
