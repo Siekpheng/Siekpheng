@@ -2,7 +2,7 @@
 # 💫 Hello world! I'm Siekpheng, an average coder who likes video games:
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%"/>
 
-🔭 I’m currently looking for an internship opportunity relating to robotics and automation to further develop my skills and gain hands-on industry experience.
+🔭 I’m currently working for Ai Farm Robotic Factory at Cambodia.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%234C69C7.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Siekpheng)
@@ -20,14 +20,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📚 Coursework & Experience:
-- Introduction to Software Engineering  
-- Object Oriented Concept  
-- Introduction to Computer Hardware Engineering  
-- Introduction to Cyber Physical System  
-- Software Design and Security  
-- Basic experience with Arduino and ROS  
-- Introduction to PLC programming 
-- Experience with Linux environments 
+- Microsoft Office Program
+- Programming (Python, C, C++, Java)
+- Algorithm (C, C++)
+- Introduction to software engineering
+- Object Oriented Concept
+- Introduction to Computer Hardware Engineering
+- Introduction to Cyber Physical System
+- Software Design and Security
+- Electronics & Hardware: Circuit Design, PCB Design, Sensors & Actuators, DC Motor Control, Microcontroller Programming (Arduino, ESP32, etc.)
+- Automation & Robotics: RobotStudio, PLC Programming, Embedded Systems, Control Systems, ROS
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Siekpheng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
